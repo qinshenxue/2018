@@ -1,3 +1,11 @@
+-----
+| 时间点 | 成果 |
+|:---:| :-- |
+|2018-01-14| [看了部分 react 文档](https://github.com/qinshenxue/2018/issues/1) |
+|2018-01-17| 1月份博客[《Seajs 解析》](http://www.qinshenxue.com/article/20180109085513.html) |
+-----
+
+
 新年计划：
 
 - 更多关于 Vue 的项目实战，更多 Vue 底层的学习，输出：
@@ -35,7 +43,3 @@
 
 - 每完成一项，就在下面标注时间，以及成果
 
------
-| 时间点 | 成果 |
-|:---:| :-- |
-|2018-01-14| [看了部分 react 文档](https://github.com/qinshenxue/2018/issues/1) |
