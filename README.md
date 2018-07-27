@@ -3,6 +3,9 @@
 |:---:| :-- |
 |2018-01-14| [看了部分 react 文档](https://github.com/qinshenxue/2018/issues/1) |
 |2018-01-17| 1月份博客[《Seajs 解析》](http://www.qinshenxue.com/article/20180109085513.html) |
+|2018-07| 《你不知道的 JavaScript》读书笔记[《JavaScript 类型转换》](https://www.qinshenxue.com/) |
+|2018-07| 博客升级到https |
+
 -----
 
 
